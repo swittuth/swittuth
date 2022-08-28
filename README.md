@@ -1,7 +1,6 @@
 # Welcome 👋
 ## About me
-Aspiring full-stack developer interested in front-end development. Loves creating eye-capturing and intuitive user experiences. 
-A passionate learner who stays up to date by observing innovations to build better software.
+Software Engineer based in New York. Loves creating eye-capturing and intuitive user experiences. A passionate learner who stays up to date by observing innovations to build better software.
 
 ## Technologies I work with
 
