@@ -2,6 +2,8 @@
 ## About me
 Software Engineer based in New York. Loves creating eye-capturing and intuitive user experiences. A passionate learner who stays up to date by observing innovations to build better software.
 
+
+
 ## Technologies I work with
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,5 +33,6 @@ Software Engineer based in New York. Loves creating eye-capturing and intuitive 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ![](https://komarev.com/ghpvc/?username=swittuth&color=blueviolet&style=for-the-badge)
